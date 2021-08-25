@@ -1,0 +1,112 @@
+第1.1类:有整体爆炸危险的物质和物品
+第1.2类:有进射危险,但无整体爆炸的物质和物品
+第1.3类:有燃烧危险并有局部爆炸危险或局部迸射危险或这两种危险都有,但无整体爆炸危险的物质和物品
+第1.4类:不呈现重大危险的物质和物品
+第1.5类:有整体爆炸危险的非常不敏感物质
+第1.6类:无整体爆炸危险的极端不敏感物品
+第2.1类:易燃气体
+第2.2类:非易燃无毒气体
+第2.3类:毒性气体
+第4.1类:易燃固体
+第4.2类:易于自燃的物质
+第4.3类:遇水放出易燃气体的物质
+第5.1类:氧化性物质
+第5.2类:有机过氧化物
+第6.1类:毒性物质
+第6.2类:感染性物质
+
+易燃固体、易于自燃的物质、遇水放出易燃气体的物质
+<table>
+<thead>
+  <tr>
+    <th rowspan="6">第一类：爆炸品</th>
+    <th>第1.1类:有整体爆炸危险的物质和物品</th>
+  </tr>
+  <tr>
+    <th>第1.2类:有进射危险,但无整体爆炸的物质和物品</th>
+  </tr>
+  <tr>
+    <th>第1.3类:有燃烧危险并有局部爆炸危险或局部迸射危险或这两种危险都有,但无整体爆炸危险的物质和物品</th>
+  </tr>
+  <tr>
+    <th>第1.4类:不呈现重大危险的物质和物品</th>
+  </tr>
+  <tr>
+    <th>第1.5类:有整体爆炸危险的非常不敏感物质</th>
+  </tr>
+  <tr>
+    <th>第1.6类:无整体爆炸危险的极端不敏感物品</th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td rowspan="2">第二类：气体</td>
+    <td>第2.1类:易燃气体</td>
+  </tr>
+  <tr>
+    <td>第2.2类:非易燃无毒气体</td>
+  </tr>
+  <tr>
+    <td>第三类：易燃液体</td>
+    <td></td>
+  </tr>
+  <tr>
+    <td rowspan="3">第四类：易燃固体、易于自燃的物质、遇水放出易燃气体的物质</td>
+    <td>第4.1类:易燃固体</td>
+  </tr>
+  <tr>
+    <td>第4.2类:易于自燃的物质</td>
+  </tr>
+  <tr>
+    <td>第4.3类:遇水放出易燃气体的物质</td>
+  </tr>
+  <tr>
+    <td rowspan="2">第五类：氧化性物质和有机过氧化物</td>
+    <td>第5.1类:氧化性物质</td>
+  </tr>
+  <tr>
+    <td>第5.2类:有机过氧化物</td>
+  </tr>
+  <tr>
+    <td rowspan="2">第六类：毒物质和感染性物质</td>
+    <td>第6.1类:毒性物质</td>
+  </tr>
+  <tr>
+    <td>第6.2类:感染性物质</td>
+  </tr>
+  <tr>
+    <td rowspan="3">第七类：放射性物质及裂变性物质</td>
+    <td>I级——白色</td>
+  </tr>
+  <tr>
+    <td>II级——黄色</td>
+  </tr>
+  <tr>
+    <td>III级——黄色</td>
+  </tr>
+  <tr>
+    <td>第八类：腐蚀性物质</td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>第九类：杂项危险物质和物品</td>
+    <td></td>
+  </tr>
+</tbody>
+</table>
+
+
+
+
+
+
+
+<table><tbody>  <tr>    <td rowspan='6'>第一类：爆炸品</td>    <td>第1.1类:有整体爆炸危险的物质和物品</td>  </tr>  <tr>    <td>第1.2类:有进射危险,但无整体爆炸的物质和物品</td>  </tr>  <tr>    <td>第1.3类:有燃烧危险并有局部爆炸危险或局部迸射危险或这两种危险都有,但无整体爆炸危险的物质和物品</td>  </tr>  <tr>    <td>第1.4类:不呈现重大危险的物质和物品</td>  </tr>  <tr>    <td>第1.5类:有整体爆炸危险的非常不敏感物质</td>  </tr>  <tr>    <td>第1.6类:无整体爆炸危险的极端不敏感物品</td>  </tr>  <tr>    <td rowspan='2'>第二类：气体</td>    <td>第2.1类:易燃气体</td>  </tr>  <tr>    <td>第2.2类:非易燃无毒气体</td>  </tr>  <tr>    <td>第三类：易燃液体</td>    <td></td>  </tr>  <tr>    <td rowspan='3'>第四类：易燃固体、易于自燃的物质、遇水放出易燃气体的物质</td>    <td>第4.1类:易燃固体</td>  </tr>  <tr>    <td>第4.2类:易于自燃的物质</td>  </tr>  <tr>    <td>第4.3类:遇水放出易燃气体的物质</td>  </tr>  <tr>    <td rowspan='2'>第五类：氧化性物质和有机过氧化物</td>    <td>第5.1类:氧化性物质</td>  </tr>  <tr>    <td>第5.2类:有机过氧化物</td>  </tr>  <tr>    <td rowspan='2'>第六类：毒物质和感染性物质</td>    <td>第6.1类:毒性物质</td>  </tr>  <tr>    <td>第6.2类:感染性物质</td>  </tr>  <tr>    <td rowspan='3'>第七类：放射性物质及裂变性物质</td>    <td>I级——白色</td>  </tr>  <tr>    <td>II级——黄色</td>  </tr>  <tr>    <td>III级——黄色</td>  </tr>  <tr>    <td>第八类：腐蚀性物质</td>    <td></td>  </tr>  <tr>    <td>第九类：杂项危险物质和物品</td>    <td></td>  </tr></tbody></table>
+
+
+
+
+
+
+
+<style type='text/css'>.tg  {border-collapse:collapse;border-color:black;border-spacing:0;border-style:solid;border-width:1px;}.tg td{border-style:solid;border-width:0px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;  padding:10px 5px;word-break:normal;}.tg th{border-style:solid;border-width:0px;font-family:Arial, sans-serif;font-size:14px;font-weight:normal;  overflow:hidden;padding:10px 5px;word-break:normal;}.tg .tg-0lax{text-align:left;vertical-align:top}</style><table class='tg'><tbody>  <tr>    <td class='tg-0lax' rowspan='6'>第一类：爆炸品</td>    <td class='tg-0lax'>第1.1类:有整体爆炸危险的物质和物品</td>  </tr>  <tr>    <td class='tg-0lax'>第1.2类:有进射危险,但无整体爆炸的物质和物品</td>  </tr>  <tr>    <td class='tg-0lax'>第1.3类:有燃烧危险并有局部爆炸危险或局部迸射危险或这两种危险都有,但无整体爆炸危险的物质和物品</td>  </tr>  <tr>    <td class='tg-0lax'>第1.4类:不呈现重大危险的物质和物品</td>  </tr>  <tr>    <td class='tg-0lax'>第1.5类:有整体爆炸危险的非常不敏感物质</td>  </tr>  <tr>    <td class='tg-0lax'>第1.6类:无整体爆炸危险的极端不敏感物品</td>  </tr>  <tr>    <td class='tg-0lax' rowspan='2'>第二类：气体</td>    <td class='tg-0lax'>第2.1类:易燃气体</td>  </tr>  <tr>    <td class='tg-0lax'>第2.2类:非易燃无毒气体</td>  </tr>  <tr>    <td class='tg-0lax'>第三类：易燃液体</td>    <td class='tg-0lax'></td>  </tr>  <tr>    <td class='tg-0lax' rowspan='3'>第四类：易燃固体、易于自燃的物质、遇水放出易燃气体的物质</td>    <td class='tg-0lax'>第4.1类:易燃固体</td>  </tr>  <tr>    <td class='tg-0lax'>第4.2类:易于自燃的物质</td>  </tr>  <tr>    <td class='tg-0lax'>第4.3类:遇水放出易燃气体的物质</td>  </tr>  <tr>    <td class='tg-0lax' rowspan='2'>第五类：氧化性物质和有机过氧化物</td>    <td class='tg-0lax'>第5.1类:氧化性物质</td>  </tr>  <tr>    <td class='tg-0lax'>第5.2类:有机过氧化物</td>  </tr>  <tr>    <td class='tg-0lax' rowspan='2'>第六类：毒物质和感染性物质</td>    <td class='tg-0lax'>第6.1类:毒性物质</td>  </tr>  <tr>    <td class='tg-0lax'>第6.2类:感染性物质</td>  </tr>  <tr>    <td class='tg-0lax' rowspan='3'>第七类：放射性物质及裂变性物质</td>    <td class='tg-0lax'>I级——白色</td>  </tr>  <tr>    <td class='tg-0lax'>II级——黄色</td>  </tr>  <tr>    <td class='tg-0lax'>III级——黄色</td>  </tr>  <tr>    <td class='tg-0lax'>第八类：腐蚀性物质</td>    <td class='tg-0lax'></td>  </tr>  <tr>    <td class='tg-0lax'>第九类：杂项危险物质和物品</td>    <td class='tg-0lax'></td>  </tr></tbody></table>
