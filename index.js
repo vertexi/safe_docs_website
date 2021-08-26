@@ -7,7 +7,7 @@ var json = {
     showProgressBar: "bottom",
     firstPageIsStarted: true,
     startSurveyText: "开始",
-    
+
     pages: [
         {
             questions: [
@@ -18,7 +18,7 @@ var json = {
                             <h3>从逆风、上坡和/或上游接近事故时，应远离所有泄漏、蒸汽、烟雾、烟雾和潜在危险</h3></br>\
                             <h3>如果涉及多个危险物质/危险物品，则不要使用本流程图。立即拨打本指南内置封面上列出的适当的应急响应机构电话号码。</h3></br>\
                             <a href='assets/ERG2020-WEB.pdf'>从此获取原版指南(Emergency Response Guidebook)</a>，其官网为<a href='https://www.phmsa.dot.gov/hazmat/erg/emergency-response-guidebook-erg'>https://www.phmsa.dot.gov/hazmat/erg/emergency-response-guidebook-erg</a></br>\
-                    您即将开始分析当前危险品处置方法<br/>请按<b>'开始'</b>键继续。"
+                    您即将开始分析当前危险品处置方法<br/>请按<b>'开始'</b>键继续。直接前往应急指南查询网请从此入：<b><a href='http://yhsxz.cn:9292/erg_guidance'>应急指南查询网</a></b>"
                 }
             ]
         },
@@ -310,7 +310,7 @@ var json = {
                 {
                     type: "html",
                     "visibleIf": "{which_explosive}=='1.1, 1.2, 1.3,  1.5类中的一种'&&{explosive_label}='是'",
-                    html: "<h2>请使用<a href='http://yhsxz.cn/erg_guidance/guidance/guidance112'>应急指导112号</a>作为参考</h2>"
+                    html: "<h2>请使用<a href='http://yhsxz.cn:9292/erg_guidance/guidance/guidance112'>应急指导112号</a>作为参考</h2>"
                 }
             ]
         },
@@ -320,7 +320,7 @@ var json = {
                 {
                     type: "html",
                     "visibleIf": "{which_explosive}=='1.4, 1.6类中的一种'&&{explosive_label}='是'",
-                    html: "<h2>请使用<a href='http://yhsxz.cn/erg_guidance/guidance/guidance114'>应急指导114号</a>作为参考</h2>"
+                    html: "<h2>请使用<a href='http://yhsxz.cn:9292/erg_guidance/guidance/guidance114'>应急指导114号</a>作为参考</h2>"
                 }
             ]
         },
@@ -344,7 +344,7 @@ var json = {
                 {
                     type: "html",
                     visibleIf: "{explosive_label}='否'&&{UN_name}=='是'",
-                    html: "<h2>请前往<a href='http://yhsxz.cn/erg_guidance-unid/'>应急指导查询网</a>根据UN/UA ID查询对应的指南方法</h2>"
+                    html: "<h2>请前往<a href='http://yhsxz.cn:9292/erg_guidance-unid/'>应急指导查询网</a>根据UN/UA ID查询对应的指南方法</h2>"
                 }
             ]
         },
@@ -368,7 +368,7 @@ var json = {
                 {
                     type: "html",
                     visibleIf: "{explosive_label}='否'&&{UN_name}=='否'&&{material_name}=='是'",
-                    html: "<h2>请前往<a href='http://yhsxz.cn/erg_guidance-material/'>应急指导查询网</a>根据物质名字查询对应的指南方法</h2>"
+                    html: "<h2>请前往<a href='http://yhsxz.cn:9292/erg_guidance-material/'>应急指导查询网</a>根据物质名字查询对应的指南方法</h2>"
                 }
             ]
         },
@@ -412,7 +412,7 @@ var json = {
                     type: "html",
                     visibleIf: "{explosive_label}='否'&&{UN_name}=='否'&&{material_name}=='否'&&{placard_exist}='是'",
                     html: "<h2>请看以下图表根据已知的危险品标记或标牌等信息，判断应参考的应急指南编号。</h2></br>\
-                            <h2>然后前往<a href='http://yhsxz.cn/erg_guidance-guidance/'>应急指南查询网</a>根据编号查询相应的应急指南</h2>\
+                            <h2>然后前往<a href='http://yhsxz.cn:9292/erg_guidance-guidance/'>应急指南查询网</a>根据编号查询相应的应急指南</h2>\
                             <img src='assets/erg1.png' style='height: 40%; width: 40%; object-fit= contain'\>\
                             <img src='assets/erg2.png' style='height: 40%; width: 40%; object-fit= contain'\>"
                 }
@@ -461,7 +461,7 @@ var json = {
                     type: "html",
                     visibleIf: "{explosive_label}='否'&&{UN_name}=='否'&&{material_name}=='否'&&{placard_exist}='否'&&{railcar}=='是'",
                     html: "<h2>请看以下图表根据已知的铁路车或拖车形状类型等信息，判断应参考的应急指南编号。</h2></br>\
-                            <h2>然后前往<a href='http://yhsxz.cn/erg_guidance-guidance/'>应急指南查询网</a>根据编号查询相应的应急指南</h2>\
+                            <h2>然后前往<a href='http://yhsxz.cn:9292/erg_guidance-guidance/'>应急指南查询网</a>根据编号查询相应的应急指南</h2>\
                             <img src='assets/railcar_1.png' style='height: 40%; width: 40%; object-fit= contain'\>\
                             <img src='assets/railcar_2.png' style='height: 40%; width: 40%; object-fit= contain'\>\
                             <img src='assets/railcar_3.png' style='height: 40%; width: 40%; object-fit= contain'\>\
@@ -476,13 +476,13 @@ var json = {
                 {
                     type: "html",
                     visibleIf: "{explosive_label}='否'&&{UN_name}=='否'&&{material_name}=='否'&&{placard_exist}='否'&&{railcar}=='否'",
-                    html: "<h2>请前往<a href='http://yhsxz.cn/erg_guidance/guidance/guidance111'>应急指南查询网Guide 111</a>作为参考</h2>"
+                    html: "<h2>请前往<a href='http://yhsxz.cn:9292/erg_guidance/guidance/guidance111'>应急指南查询网Guide 111</a>作为参考</h2>"
                 }
             ]
         }
 
     ],
-    completedHtml: "<h4>你现在应该前往查阅<a href='http://yhsxz.cn/erg_guidance'>ERG指导</a></h4>"
+    completedHtml: "<h4>你现在应该前往查阅<a href='http://yhsxz.cn:9292/erg_guidance'>ERG指导</a></h4>"
 };
 
 window.survey = new Survey.Model(json);
