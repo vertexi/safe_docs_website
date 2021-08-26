@@ -495,4 +495,5 @@ survey
             .textContent = "Result JSON:\n" + JSON.stringify(sender.data, null, 3);
     });
 
+survey.showPreviewBeforeComplete = 'showAnsweredQuestions';
 $("#surveyElement").Survey({ model: survey });;
